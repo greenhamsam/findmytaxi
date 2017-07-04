@@ -3951,6 +3951,16 @@
 					font-size: 2em;
 				}
 
+				#header h1 .yellowHeader {
+					font-family:'Pacifico', cursive;
+					color:#FFE66D
+				}
+
+				#header h1 .whiteHeader {
+					font-family:'Pacifico', cursive;
+					color:white
+				}
+
 				#header p {
 					font-size: 1em;
 					line-height: inherit;
